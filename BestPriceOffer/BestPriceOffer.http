@@ -1,0 +1,6 @@
+@BestPriceOffer_HostAddress = http://localhost:5260
+
+GET {{BestPriceOffer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
