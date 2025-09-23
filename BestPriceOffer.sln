@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPriceOffer", "BestPriceOffer\BestPriceOffer.csproj", "{F2EA25EB-A513-44E9-94B2-C026D8EA2173}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimumERP.AI", "OptimumERP.AI\OptimumERP.AI.csproj", "{529D7BD1-F287-4CE5-B914-498D5ACB8C6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2EA25EB-A513-44E9-94B2-C026D8EA2173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EA25EB-A513-44E9-94B2-C026D8EA2173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EA25EB-A513-44E9-94B2-C026D8EA2173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529D7BD1-F287-4CE5-B914-498D5ACB8C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529D7BD1-F287-4CE5-B914-498D5ACB8C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529D7BD1-F287-4CE5-B914-498D5ACB8C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529D7BD1-F287-4CE5-B914-498D5ACB8C6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
