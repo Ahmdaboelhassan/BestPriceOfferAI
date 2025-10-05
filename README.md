@@ -35,14 +35,6 @@ The solution is built using **Clean Architecture principles**, separating concer
 4. Business logic applies discount rules and computes the best final price.  
 5. Results are returned as structured JSON data.
 
-## 📦 Getting Started
+ 
 
-### Prerequisites
-- .NET SDK 8.0 or higher  
-- Visual Studio 2022 / VS Code  
-- SQL Server or SQLite (for testing)  
 
-### Installation
-```bash
-git clone https://github.com/<your-username>/Excel-Data-Classifier-API.git
-cd Excel-Data-Classifier-API
